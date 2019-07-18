@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-ok, it is modified...
+ok
 </body>
 </html>
